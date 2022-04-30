@@ -1,2 +1,2 @@
 # CV
-Сайт визитка на HTML+CSS+JS
+Сайт на простом HTML + CSS + JS
